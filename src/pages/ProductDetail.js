@@ -1,6 +1,7 @@
 import { useParams } from "react-router-dom";
 
 const ProductDetail = () => {
+  //const param1 = useParams();
   const params = useParams();
 
 
